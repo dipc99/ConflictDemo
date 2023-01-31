@@ -6,8 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.1</version>
+    
+		<relativePath/> 
+<!-- Changes By DevUSA  -->
+
 		<relativePath/> <!-- lookup parent from repository -->
 <!-- Changes By DevIndia -->
+
 	</parent>
 	<groupId>com.BikkadIT.ReflectionAPI</groupId>
 	<artifactId>ReflectionAPI</artifactId>
